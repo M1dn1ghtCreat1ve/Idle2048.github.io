@@ -1,1 +1,0 @@
-# Idle2048.github.io
